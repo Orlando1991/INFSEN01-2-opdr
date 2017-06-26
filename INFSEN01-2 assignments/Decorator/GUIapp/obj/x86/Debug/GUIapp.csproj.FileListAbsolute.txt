@@ -1,0 +1,48 @@
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\Content\white_pixel.xnb
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\GUIapp.exe
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\GUIapp.pdb
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\obj\x86\Debug\GUIapp.exe
+C:\Users\Orlando\Desktop\Windows + C# + Monogame incomplete assignments\GUIapp - iteration 5 - TODO\GUIapp\obj\x86\Debug\GUIapp.pdb
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\obj\x86\Debug\GUIapp.exe
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\obj\x86\Debug\GUIapp.pdb
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\Content\white_pixel.xnb
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\GUIapp.exe
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\GUIapp.pdb
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Orlando\Documents\HRO\INF3B\OP4\Software eng\INFSEN01-2 assignments\Decorator\GUIapp\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
